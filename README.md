@@ -17,3 +17,7 @@ Ne pas utiliser le parking du haut, à cause de la gadoue.
 ## Jeunes pousses
 
 On vient de semer partout des engrais verts et du gazon, ne pas trop les piétiner.
+
+## Pour fermer les bâtiments
+
+Il faut bien soulever les poingées. Par contre il n'y a pas besoins de forcer sur les clefs. Si on a la sensation qu'il faut forcer sur la clef, c'est probablement que la poignée n'est pas assez soulevée.
